@@ -11,10 +11,10 @@ The aim of this approach is to calculate the distance between each point to find
 <b>Unix Terminal:</b> `export CLASSPATH = $CLASSPATH:/some/directory/` </br>
 <b>ex. for unix terminal:</b> `export CLASSPATH=/Users/deloittemac/Desktop/yusp/` </br>
 
-*Navigate to the closestvector folder in which the source files are located than compile the java source files.
+*Navigate to the closestvector folder in which the source files are located than compile the java source files. </br>
 <b>Command:</b> `javac *.java`
 
-*To run this application:
+*To run this application: </br>
 <b>Command:</b> `java closestvector.Main`
 
 #### Menu

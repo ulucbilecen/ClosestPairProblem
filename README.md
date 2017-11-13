@@ -7,9 +7,9 @@ The aim of this approach is to calculate the distance between each point to find
 <b>From command line:</b>
 *In the beginning, classpath should be set to the directory where closestvector and test folder are located
 
-<b>Windows CMD:</b> `set CLASSPATH=%classpath%;/some/directory`
-<b>Unix Terminal:</b> `export CLASSPATH = $CLASSPATH:/some/directory/`
-<b>ex. for unix terminal:</b> `export CLASSPATH=/Users/deloittemac/Desktop/yusp/`
+<b>Windows CMD:</b> `set CLASSPATH=%classpath%;/some/directory` </br>
+<b>Unix Terminal:</b> `export CLASSPATH = $CLASSPATH:/some/directory/` </br>
+<b>ex. for unix terminal:</b> `export CLASSPATH=/Users/deloittemac/Desktop/yusp/` </br>
 
 *Navigate to the closestvector folder in which the source files are located than compile the java source files.
 <b>Command:</b> `javac *.java`

@@ -17,7 +17,7 @@ The aim of this approach is to calculate the distance between each point to find
 *To run this application:
 <b>Command:</b> `java closestvector.Main`
 
-### Menu
+#### Menu
 
 <b> 1. Run selected input file</b>
 
